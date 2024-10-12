@@ -29,8 +29,22 @@
 <br/>
 
 <a href="https://github.com/Artistic-Nyungu">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Artistic-Nyungu&theme=tokyonight&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Artistic-Nyungu&theme=tokyonight&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Artistic-Nyungu&theme=tokyonight&show_icons=true&rank_icon=github" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Artistic-Nyungu&theme=tokyonight&layout=donut" />
+</a>
+
+<br/>
+
+<h3> 🌟 Favourate Repos</h3>
+
+<a href="https://github.com/Artistic-Nyungu/Godot-Planet-Procedural-Generation">
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/pin/?username=Artistic-Nyungu&repo=Godot-Planet-Procedural-Generation&theme=tokyonight" />
+</a>
+<a href="https://github.com/Artistic-Nyungu/GLSL-Shader-Trials">
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/pin/?username=Artistic-Nyungu&repo=GLSL-Shader-Trials&theme=tokyonight" />
+</a>
+<a href="https://github.com/Artistic-Nyungu/Godot-Terrain-Procedural-Generation">
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/pin/?username=Artistic-Nyungu&repo=Godot-Terrain-Procedural-Generation&theme=tokyonight" />
 </a>
 
 <br/>
