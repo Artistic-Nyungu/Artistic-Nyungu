@@ -30,7 +30,8 @@
 
 <a href="https://github.com/Artistic-Nyungu">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Artistic-Nyungu&theme=tokyonight&show_icons=true&rank_icon=github" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Artistic-Nyungu&theme=tokyonight&layout=donut" />
+  <br/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Artistic-Nyungu&theme=tokyonight&layout=donut" />
 </a>
 
 <br/>
