@@ -30,9 +30,9 @@
 <br/>
 
 <a href="https://github.com/Artistic-Nyungu">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Artistic-Nyungu&theme=tokyonight&show_icons=true&rank_icon=github" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Artistic-Nyungu&theme=tokyonight&show_icons=true&rank_icon=github" />
   <br/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Artistic-Nyungu&theme=tokyonight&layout=donut" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Artistic-Nyungu&theme=tokyonight&layout=donut" />
 </a>
 
 <br/>
@@ -40,13 +40,13 @@
 <h3> 🌟 Favourate Repos</h3>
 
 <a href="https://github.com/Artistic-Nyungu/Godot-Planet-Procedural-Generation">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/pin/?username=Artistic-Nyungu&repo=Godot-Planet-Procedural-Generation&theme=tokyonight" />
+  <img height="100em" src="https://github-readme-stats.vercel.app/api/pin/?username=Artistic-Nyungu&repo=Godot-Planet-Procedural-Generation&theme=tokyonight" />
 </a>
 <a href="https://github.com/Artistic-Nyungu/GLSL-Shader-Trials">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/pin/?username=Artistic-Nyungu&repo=GLSL-Shader-Trials&theme=tokyonight" />
+  <img height="100em" src="https://github-readme-stats.vercel.app/api/pin/?username=Artistic-Nyungu&repo=GLSL-Shader-Trials&theme=tokyonight" />
 </a>
 <a href="https://github.com/Artistic-Nyungu/Godot-Terrain-Procedural-Generation">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/pin/?username=Artistic-Nyungu&repo=Godot-Terrain-Procedural-Generation&theme=tokyonight" />
+  <img height="100em" src="https://github-readme-stats.vercel.app/api/pin/?username=Artistic-Nyungu&repo=Godot-Terrain-Procedural-Generation&theme=tokyonight" />
 </a>
 
 <br/>
@@ -54,5 +54,11 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/bright-chauke-b5300024a/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Bright_Chauke-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/bra_fumani/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-Fumani_Chauke-blue?style=flat-square&logo=instagram"></a>
+<a href="https://www.linkedin.com/in/bright-chauke-b5300024a/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Bright_Chauke-blue?style=flat&logo=linkedin"></a>
+<a href="https://www.instagram.com/bra_fumani/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-Fumani_Chauke-blue?style=flat&logo=instagram"></a>
+</p>
+
+<h3>Other Links</h3>
+<p align="center">
+<a href="https://learn.microsoft.com/en-za/users/artistic-nyungu/transcript/dg1w9im0m3epqjm"><img alt="Microsoft Learn Transcript" src="https://img.shields.io/badge/Microsoft_Learn_Transcript-Bright_Chauke-blue?style=flat"/></a>
+</p>
