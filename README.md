@@ -1,6 +1,8 @@
-<h2> Hey👋🏼, Bright Chauke here... Mostly known as Fumani</h2>
+<h2>
+    Hey👋🏼, Bright Chauke here... Mostly known as Fumani 
+</h2>
 
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+<h3> 👨🏻‍💻 &nbsp;About Me &nbsp;<img src="https://komarev.com/ghpvc/?username=Artistic-Nyungu&style=flat&abbreviated=true&color=980e45" /></h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Computer Science and Informatics at University of Johannesburg.
